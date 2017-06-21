@@ -1,0 +1,12 @@
+package com;
+
+public class Department {
+	
+	private Test t;
+	
+	public Test getTest() {
+		t=new Test();
+		return t;
+	}
+
+}

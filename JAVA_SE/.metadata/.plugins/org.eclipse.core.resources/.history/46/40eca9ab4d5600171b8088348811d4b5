@@ -1,0 +1,21 @@
+package com;
+
+public class Test {
+
+	void f1() {
+		System.out.println("-- f1 method on "+this.hashCode());
+	}
+	public static void main(String[] args) {
+
+	/*	
+		Test t=new Test();
+		t.f1();
+		t.f1();
+		t.f1();*/
+		
+		new Test().f1();
+		
+
+	}
+
+}

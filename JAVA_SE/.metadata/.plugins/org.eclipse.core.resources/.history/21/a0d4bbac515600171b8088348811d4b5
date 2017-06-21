@@ -1,0 +1,25 @@
+package com;
+
+public class Employee {
+	
+	int x;
+	static int y;
+	
+	void process() {
+		x=10;
+		y=20;
+	}
+	
+	public static void main(String[] args) {
+		
+		Employee e=new Employee();
+		
+		e.x=10;
+		Employee.y=200;
+		y=300;
+		y=150;
+		
+		
+	}
+
+}
