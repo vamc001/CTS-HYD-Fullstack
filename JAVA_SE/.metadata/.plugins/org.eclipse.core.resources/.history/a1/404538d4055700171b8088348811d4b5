@@ -1,7 +1,6 @@
 package com;
 
 class C1{
-	
 	void f2() {
 		
 	}

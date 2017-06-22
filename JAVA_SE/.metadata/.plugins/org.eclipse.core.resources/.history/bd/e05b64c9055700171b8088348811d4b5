@@ -1,20 +1,6 @@
 package com;
 
-class C1{
-	
-	void f2() {
-		
-	}
-}
-
-
-public class Test extends C1{
-	
-	@Override
-	void f2() {
-		
-	}
-	
+public class Test {
 
 	void f1() {
 		System.out.println("-- f1 method on "+this.hashCode());

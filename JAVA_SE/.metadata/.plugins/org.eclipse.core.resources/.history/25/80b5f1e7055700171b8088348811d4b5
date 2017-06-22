@@ -10,8 +10,8 @@ class C1{
 
 public class Test extends C1{
 	
-	@Override
-	void f2() {
+	
+	void ff2() {
 		
 	}
 	
