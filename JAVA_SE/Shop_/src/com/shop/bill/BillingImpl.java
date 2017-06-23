@@ -23,7 +23,7 @@ public class BillingImpl {
 	 * 
 	 * --> Create a inteface to Dependency, and Inject interfcae object from test class
 	 * 
-	 * ---> 
+	 * --->  IOC --> Inversion of Control
 	 * 
 	 *  
 	 * 
