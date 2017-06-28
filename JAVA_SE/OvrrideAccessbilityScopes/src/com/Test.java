@@ -41,7 +41,9 @@ class C2 extends C1 {
 
 public class Test {
 	/*
-	 * Overrideen Method notes -------------------------- 1. If super class method
+	 * Overridden Method notes
+	 *  -------------------------- 
+	 * 1. If super class method
 	 * is public, then overrideen method must be public and must not com down its
 	 * accessibility
 	 * 
@@ -55,6 +57,7 @@ public class Test {
 	 */
 
 	public static void main(String[] args) {
+		
 
 	}
 
