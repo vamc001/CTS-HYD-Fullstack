@@ -12,12 +12,83 @@
 	<atom:link href="https://www.genuitec.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.genuitec.com</link>
 	<description>The Cloud Control Company</description>
-	<lastBuildDate>Wed, 21 Jun 2017 03:37:27 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 29 Jun 2017 09:02:21 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.6.1</generator>
 	<item>
+		<title>Take a deep breath — Eclipse Oxygen is here!</title>
+		<link>https://www.genuitec.com/eclipse-oxygen-here/</link>
+		<pubDate>Wed, 28 Jun 2017 14:37:52 +0000</pubDate>
+		<dc:creator><![CDATA[Rocio Trujillo]]></dc:creator>
+				<category><![CDATA[Eclipse]]></category>
+		<category><![CDATA[Eclipse Oxygen]]></category>
+
+		<guid isPermaLink="false">https://www.genuitec.com/?p=528412</guid>
+		<description><![CDATA[<p>We can all breathe a little easier now that Eclipse Oxygen has arrived! And just like the last Eclipse release (remember Neon?), this is a biggie!83 projects287 committers71 million lines of code664 contributorsOur development team is ecstatic about all Oxygen has to offer. When Ignacio Moreno (our SDC Product Manager) was asked to give a [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.genuitec.com/eclipse-oxygen-here/">Take a deep breath — Eclipse Oxygen is here!</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
+]]></description>
+		</item>
+		<item>
+		<title>Exploring Your Angular App Using CodeLive</title>
+		<link>https://www.genuitec.com/exploring-angular-app-using-codelive/</link>
+		<pubDate>Wed, 28 Jun 2017 14:12:38 +0000</pubDate>
+		<dc:creator><![CDATA[Wanda Muriy]]></dc:creator>
+				<category><![CDATA[Eclipse]]></category>
+		<category><![CDATA[Genuitec]]></category>
+		<category><![CDATA[MyEclipse]]></category>
+		<category><![CDATA[Programming Tips]]></category>
+		<category><![CDATA[Webclipse]]></category>
+		<category><![CDATA[Angular]]></category>
+		<category><![CDATA[angular app]]></category>
+		<category><![CDATA[codelive]]></category>
+
+		<guid isPermaLink="false">https://www.genuitec.com/?p=527732</guid>
+		<description><![CDATA[<p>The saying “Time is money” is definitely applicable in the world of web development, and CodeLive helps you manage your time very wisely. It makes it possible to see which files or Angular components get loaded on a web page and go from there to the source in a heartbeat. If you are ready to enjoy [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.genuitec.com/exploring-angular-app-using-codelive/">Exploring Your Angular App Using CodeLive</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
+]]></description>
+		</item>
+		<item>
+		<title>CodeTogether &#8211; Taking Pair Programming Remote.</title>
+		<link>https://www.genuitec.com/taking-pair-programming-remote/</link>
+		<pubDate>Fri, 23 Jun 2017 15:56:00 +0000</pubDate>
+		<dc:creator><![CDATA[Wanda Muriy]]></dc:creator>
+				<category><![CDATA[Eclipse]]></category>
+		<category><![CDATA[Genuitec]]></category>
+		<category><![CDATA[MyEclipse]]></category>
+		<category><![CDATA[MyEclipse Top News]]></category>
+		<category><![CDATA[Programming Tips]]></category>
+		<category><![CDATA[Webclipse]]></category>
+		<category><![CDATA[codetogether]]></category>
+		<category><![CDATA[pair programming]]></category>
+		<category><![CDATA[remote pair programming]]></category>
+		<category><![CDATA[working remotely]]></category>
+
+		<guid isPermaLink="false">https://www.genuitec.com/?p=527478</guid>
+		<description><![CDATA[<p>“Two heads are better than one.”, you might hear often, but, that assumes you can get the right two heads together. Pair programming is not an new practice, and it seems everyone has an opinion as to its costs and effectiveness. At Genuitec, we’ve continually evolved our collaborative coding practices to increasingly include pair programming. [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.genuitec.com/taking-pair-programming-remote/">CodeTogether &#8211; Taking Pair Programming Remote.</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
+]]></description>
+		</item>
+		<item>
+		<title>Create an Ecommerce Dashboard with Angular 4</title>
+		<link>https://www.genuitec.com/create-ecommerce-dashboard-angular-4/</link>
+		<pubDate>Wed, 21 Jun 2017 18:06:30 +0000</pubDate>
+		<dc:creator><![CDATA[Bob at Genuitec]]></dc:creator>
+				<category><![CDATA[Eclipse]]></category>
+		<category><![CDATA[Genuitec]]></category>
+		<category><![CDATA[MyEclipse]]></category>
+		<category><![CDATA[Programming Tips]]></category>
+		<category><![CDATA[angular 4 app]]></category>
+		<category><![CDATA[create angular app]]></category>
+		<category><![CDATA[create dashboard]]></category>
+
+		<guid isPermaLink="false">https://www.genuitec.com/?p=527591</guid>
+		<description><![CDATA[<p>In this Angular 4 tutorial we are going to create a dashboard for an e-commerce store which will highlight key metrics and show top selling products. In the course of this tutorial, we will be using Angular IDE.Let’s get started by firing up our Angular IDE and create a new Angular project named StoreReporter.Next, we [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.genuitec.com/create-ecommerce-dashboard-angular-4/">Create an Ecommerce Dashboard with Angular 4</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
+]]></description>
+		</item>
+		<item>
 		<title>Genuitec Went Virtual Before It Was Cool!</title>
 		<link>https://www.genuitec.com/genuitec-went-virtual-before-it-was-cool/</link>
 		<pubDate>Mon, 19 Jun 2017 12:28:04 +0000</pubDate>
@@ -192,86 +263,14 @@
 <p>The post <a rel="nofollow" href="https://www.genuitec.com/software-delivery-evolving/">Software Delivery Evolving for You!</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
 ]]></description>
 		</item>
-		<item>
-		<title>CI5, CI5, Open Up!  The new software updates are here!</title>
-		<link>https://www.genuitec.com/ci5-ci5-open-new-software-updates/</link>
-		<pubDate>Thu, 11 May 2017 15:05:18 +0000</pubDate>
-		<dc:creator><![CDATA[Wanda Muriy]]></dc:creator>
-				<category><![CDATA[Genuitec]]></category>
-		<category><![CDATA[MyEclipse]]></category>
-		<category><![CDATA[Programming Tips]]></category>
-		<category><![CDATA[Webclipse]]></category>
-		<category><![CDATA[ci5]]></category>
-		<category><![CDATA[darkest dark]]></category>
-		<category><![CDATA[tslint]]></category>
-		<category><![CDATA[typescript]]></category>
-		<category><![CDATA[webclipse]]></category>
-
-		<guid isPermaLink="false">https://www.genuitec.com/?p=522300</guid>
-		<description><![CDATA[<p>Continuous improvement is Genuitec’s priority &#8212; CI5, the 9th release this year, has opened up for you already! We have worked our magic on TypeScript (TS), Angular and Darkest Dark. Take a look at what we’ve come up with!Many secret ingredients have come together to make your TS experience a charm. If you’re already using [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://www.genuitec.com/ci5-ci5-open-new-software-updates/">CI5, CI5, Open Up!  The new software updates are here!</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
-]]></description>
-		</item>
-		<item>
-		<title>Angular &#8212; Ms. Popular of Frontend Development.</title>
-		<link>https://www.genuitec.com/angular-ms-popular-frontend-development/</link>
-		<pubDate>Mon, 08 May 2017 14:31:44 +0000</pubDate>
-		<dc:creator><![CDATA[Wanda Muriy]]></dc:creator>
-				<category><![CDATA[Genuitec]]></category>
-		<category><![CDATA[MyEclipse]]></category>
-		<category><![CDATA[Programming Tips]]></category>
-		<category><![CDATA[Webclipse]]></category>
-		<category><![CDATA[Angular]]></category>
-		<category><![CDATA[html]]></category>
-		<category><![CDATA[Javascript]]></category>
-		<category><![CDATA[reasons to use Angular]]></category>
-		<category><![CDATA[typescript]]></category>
-		<category><![CDATA[web]]></category>
-
-		<guid isPermaLink="false">https://www.genuitec.com/?p=521146</guid>
-		<description><![CDATA[<p>Even though she’s been around for awhile, Angular hasn’t lost her popularity.  More and more companies are giving preference to Angular when it comes to their webpage development.  Why might that be?  In reality, there is a whole gamma of good reasons, and some of the key participants in the digital world have been quick [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://www.genuitec.com/angular-ms-popular-frontend-development/">Angular &#8212; Ms. Popular of Frontend Development.</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
-]]></description>
-		</item>
-		<item>
-		<title>Darkest Dark for Authentic Souls.</title>
-		<link>https://www.genuitec.com/darkest-dark-authentic-souls/</link>
-		<pubDate>Thu, 04 May 2017 15:26:59 +0000</pubDate>
-		<dc:creator><![CDATA[Wanda Muriy]]></dc:creator>
-				<category><![CDATA[Genuitec]]></category>
-		<category><![CDATA[Angular]]></category>
-		<category><![CDATA[angular ide]]></category>
-		<category><![CDATA[darkest dark]]></category>
-		<category><![CDATA[darkest dark theme]]></category>
-
-		<guid isPermaLink="false">https://www.genuitec.com/?p=521137</guid>
-		<description><![CDATA[<p>If you are not fashion-challenged in the web development world and like to show your true colors, Darkest Dark theme is for you. Unlike the fake sense of self provided by Nordstrom’s mud-stained jeans, our theme appeals to your authentic developer’s identity, providing features that do make sense and allow you to work in a [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://www.genuitec.com/darkest-dark-authentic-souls/">Darkest Dark for Authentic Souls.</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
-]]></description>
-		</item>
-		<item>
-		<title>Bugs for All to See</title>
-		<link>https://www.genuitec.com/bugs-for-all-to-see/</link>
-		<pubDate>Mon, 01 May 2017 14:01:08 +0000</pubDate>
-		<dc:creator><![CDATA[Wanda Muriy]]></dc:creator>
-				<category><![CDATA[Genuitec]]></category>
-		<category><![CDATA[MyEclipse]]></category>
-		<category><![CDATA[Programming Tips]]></category>
-		<category><![CDATA[Webclipse]]></category>
-
-		<guid isPermaLink="false">https://www.genuitec.com/?p=520935</guid>
-		<description><![CDATA[<p>History doesn’t need to repeat itself: the Bubonic Plague doesn’t have to happen in the developers’ world in the XXI century. Your program’s “fleas” can be handled efficiently without causing your app to be gravely infected, and now you will be fully informed about every step we take to bring the remedy your way. Indeed, all [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://www.genuitec.com/bugs-for-all-to-see/">Bugs for All to See</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
-]]></description>
-		</item>
 	</channel>
 </rss>
 
 <!-- Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
 
-Object Caching 9137/9261 objects using disk
+Object Caching 9133/9435 objects using disk
 Page Caching using disk: enhanced (Requested URI is rejected)
 Content Delivery Network via resources.cloud.genuitec.com
-Database Caching 43/45 queries in 0.006 seconds using disk
+Database Caching 4/44 queries in 1.106 seconds using disk
 
- Served from: www.genuitec.com @ 2017-06-21 00:12:54 by W3 Total Cache -->
+ Served from: www.genuitec.com @ 2017-06-29 04:20:56 by W3 Total Cache -->
