@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-11T14:42:59.775Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="yk4Or0SvglOwohK70bUz" version="14.4.7" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-03-11T14:47:37.909Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="ViVxlFnwW0CRazzvCrd5" version="14.4.7" type="github" pages="3">
   <diagram id="fZEsedt5OyX3xL0fQcQI" name="Page-1">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -223,7 +223,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="uVD31uinmYOdz07mBqpZ" name="Page-3">
-    <mxGraphModel dx="2297" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2297" dy="695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="OYWjzWP0nAhZEyF4DI7w-0" />
         <mxCell id="OYWjzWP0nAhZEyF4DI7w-1" parent="OYWjzWP0nAhZEyF4DI7w-0" />
@@ -296,7 +296,7 @@
         <mxCell id="AxIpwmCksZeNYZp_StT2-1" value="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;Kafka server cluster&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="OYWjzWP0nAhZEyF4DI7w-1">
           <mxGeometry x="200" y="450" width="170" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="AxIpwmCksZeNYZp_StT2-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;Connect cluster&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="OYWjzWP0nAhZEyF4DI7w-1">
+        <mxCell id="AxIpwmCksZeNYZp_StT2-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;Kafka MongoDB &lt;br&gt;Connector cluster&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="OYWjzWP0nAhZEyF4DI7w-1">
           <mxGeometry x="480" y="400" width="170" height="20" as="geometry" />
         </mxCell>
       </root>
